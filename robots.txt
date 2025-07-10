@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ochodesign.github.io/jamonymiga/sitemap.xml

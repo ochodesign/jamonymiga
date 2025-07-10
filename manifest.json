@@ -1,0 +1,27 @@
+{
+  "name": "Jamón y Miga | Panadería de Barrio",
+  "short_name": "Jamón y Miga",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ed",
+  "theme_color": "#7a3e1d",
+  "description": "Panadería artesanal, almacén y facturas frescas todos los días en Villa Lynch, San Martín.",
+  "icons": [
+    {
+      "src": "logo-panaderia-jamon-y-miga/logo-panaderia-jamon-y-miga-x2.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "logo-panaderia-jamon-y-miga/logo-panaderia-jamon-y-miga-x4.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "logo-panaderia-jamon-y-miga/logo-panaderia-jamon-y-miga.png",
+      "sizes": "512x512 192x192 180x180 32x32 16x16",
+      "type": "image/png"
+    }
+  ],
+  "lang": "es-AR"
+}
